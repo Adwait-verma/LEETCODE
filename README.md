@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adwait-verma/LEETCODE/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/Adwait-verma/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adwait-verma/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Adwait-verma/LEETCODE/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -29,9 +31,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Adwait-verma/LEETCODE/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
