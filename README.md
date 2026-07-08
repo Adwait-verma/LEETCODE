@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adwait-verma/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adwait-verma/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0881-boats-to-save-people](https://github.com/Adwait-verma/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1929-concatenation-of-array](https://github.com/Adwait-verma/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adwait-verma/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Adwait-verma/LEETCODE/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0189-rotate-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
