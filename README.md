@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Adwait-verma/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Adwait-verma/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1929-concatenation-of-array](https://github.com/Adwait-verma/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Adwait-verma/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Adwait-verma/LEETCODE/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Adwait-verma/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adwait-verma/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adwait-verma/LEETCODE/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0680-valid-palindrome-ii) |
