@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adwait-verma/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adwait-verma/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0682-baseball-game](https://github.com/Adwait-verma/LEETCODE/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/Adwait-verma/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1929-concatenation-of-array](https://github.com/Adwait-verma/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Adwait-verma/LEETCODE/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Adwait-verma/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Adwait-verma/LEETCODE/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Adwait-verma/LEETCODE/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
