@@ -18,7 +18,7 @@ public:
     void preorder(TreeNode* root)
     {
         if(root == NULL)
-            return;
+           {return;}
 
         ans.push_back(root->val); // Root
         preorder(root->left);     // Left
