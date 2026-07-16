@@ -8,7 +8,6 @@ public:
 
         for (int i = 0; i < n; i++) {
 
-            // Odd length palindrome
             int left = i;
             int right = i;
 
@@ -21,7 +20,7 @@ public:
                 right++;
             }
 
-            // Even length palindrome
+            
             left = i;
             right = i + 1;
 
