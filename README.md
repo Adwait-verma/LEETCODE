@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/Adwait-verma/LEETCODE/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/Adwait-verma/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [1046-last-stone-weight](https://github.com/Adwait-verma/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/Adwait-verma/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adwait-verma/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Adwait-verma/LEETCODE/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
