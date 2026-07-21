@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Adwait-verma/LEETCODE/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adwait-verma/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [1405-longest-happy-string](https://github.com/Adwait-verma/LEETCODE/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/Adwait-verma/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adwait-verma/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Adwait-verma/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [1405-longest-happy-string](https://github.com/Adwait-verma/LEETCODE/tree/master/1405-longest-happy-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adwait-verma/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Adwait-verma/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Adwait-verma/LEETCODE/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/Adwait-verma/LEETCODE/tree/master/1405-longest-happy-string) |
 ## Data Stream
 |  |
 | ------- |
