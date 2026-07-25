@@ -9,14 +9,14 @@ public:
             return;
         }
 
-        // Include current element
+        
         curr.push_back(nums[idx]);
         dfs(nums, idx + 1);
 
-        // Backtrack
+       
         curr.pop_back();
 
-        // Exclude current element
+    
         dfs(nums, idx + 1);
     }
 
