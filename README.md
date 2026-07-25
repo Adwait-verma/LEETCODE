@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Adwait-verma/LEETCODE/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Adwait-verma/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Adwait-verma/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adwait-verma/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adwait-verma/LEETCODE/tree/master/0136-single-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adwait-verma/LEETCODE/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Adwait-verma/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Adwait-verma/LEETCODE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adwait-verma/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Adwait-verma/LEETCODE/tree/master/0338-counting-bits) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Adwait-verma/LEETCODE/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adwait-verma/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
