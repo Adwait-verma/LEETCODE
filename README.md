@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Adwait-verma/LEETCODE/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Adwait-verma/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adwait-verma/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adwait-verma/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Adwait-verma/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Adwait-verma/LEETCODE/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Adwait-verma/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adwait-verma/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adwait-verma/LEETCODE/tree/master/0344-reverse-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adwait-verma/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adwait-verma/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adwait-verma/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
 ## Bit Manipulation
 |  |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Adwait-verma/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Adwait-verma/LEETCODE/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Adwait-verma/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adwait-verma/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
