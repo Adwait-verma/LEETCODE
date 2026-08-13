@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adwait-verma/LEETCODE/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Adwait-verma/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Adwait-verma/LEETCODE/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Adwait-verma/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adwait-verma/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adwait-verma/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Adwait-verma/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Adwait-verma/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Adwait-verma/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adwait-verma/LEETCODE/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
