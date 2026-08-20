@@ -4,31 +4,29 @@ public:
         
         vector<unordered_set<char>> rows(9);
         vector<unordered_set<char>> cols(9);
-        vector<unordered_set<char>> boxes(9);
+        unordered_set<char> boxes[3][3];
 
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
 
                 char val = board[i][j];
 
-                // Empty cell
                 if (val == '.') {
                     continue;
                 }
 
-                int box = (i / 3) * 3 + (j / 3);
+               int boxrow=i/3;
+               int boxcol=j/3;
 
-                // Already present?
                 if (rows[i].count(val) ||
                     cols[j].count(val) ||
-                    boxes[box].count(val)) {
+                    boxes[boxrow][boxcol].count(val)) {
                     return false;
                 }
 
-                // Add it
                 rows[i].insert(val);
                 cols[j].insert(val);
-                boxes[box].insert(val);
+                boxes[boxrow][boxcol].insert(val);
             }
         }
 
