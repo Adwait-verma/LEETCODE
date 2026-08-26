@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adwait-verma/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Adwait-verma/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Adwait-verma/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Adwait-verma/LEETCODE/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Adwait-verma/LEETCODE/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
