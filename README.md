@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adwait-verma/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/Adwait-verma/LEETCODE/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Adwait-verma/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Adwait-verma/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Adwait-verma/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Adwait-verma/LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adwait-verma/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adwait-verma/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Adwait-verma/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adwait-verma/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adwait-verma/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Adwait-verma/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Adwait-verma/LEETCODE/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Adwait-verma/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Adwait-verma/LEETCODE/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -304,4 +308,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adwait-verma/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Adwait-verma/LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Adwait-verma/LEETCODE/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
