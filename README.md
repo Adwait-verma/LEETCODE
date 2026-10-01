@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adwait-verma/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adwait-verma/LEETCODE/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Adwait-verma/LEETCODE/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Adwait-verma/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adwait-verma/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adwait-verma/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adwait-verma/LEETCODE/tree/master/0079-word-search) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adwait-verma/LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Adwait-verma/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adwait-verma/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adwait-verma/LEETCODE/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adwait-verma/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
