@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adwait-verma/LEETCODE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Adwait-verma/LEETCODE/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Adwait-verma/LEETCODE/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Adwait-verma/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Adwait-verma/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Adwait-verma/LEETCODE/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adwait-verma/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Adwait-verma/LEETCODE/tree/master/0258-add-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Adwait-verma/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adwait-verma/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Adwait-verma/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Adwait-verma/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Adwait-verma/LEETCODE/tree/master/0695-max-area-of-island) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Adwait-verma/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
