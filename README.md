@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adwait-verma/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adwait-verma/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adwait-verma/LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Adwait-verma/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adwait-verma/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Adwait-verma/LEETCODE/tree/master/0258-add-digits) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adwait-verma/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Adwait-verma/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Adwait-verma/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adwait-verma/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Adwait-verma/LEETCODE/tree/master/0338-counting-bits) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Adwait-verma/LEETCODE/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adwait-verma/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
