@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adwait-verma/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adwait-verma/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Adwait-verma/LEETCODE/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/Adwait-verma/LEETCODE/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Adwait-verma/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adwait-verma/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adwait-verma/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adwait-verma/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Adwait-verma/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Adwait-verma/LEETCODE/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Adwait-verma/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## Interactive
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adwait-verma/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Adwait-verma/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adwait-verma/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Adwait-verma/LEETCODE/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Adwait-verma/LEETCODE/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Adwait-verma/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Matrix
@@ -330,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adwait-verma/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Adwait-verma/LEETCODE/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Adwait-verma/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
